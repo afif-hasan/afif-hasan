@@ -64,20 +64,14 @@
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/afif-hasan-296255298/" target="_blank">LinkedIn</a>
+</p>
 
-<a href="https://www.linkedin.com/in/afif-hasan-296255298/">
-LinkedIn
-</a>
-
-|
-
-<a href="mailto:afifhasan.ranasa@proton.me">
-Email
-</a>
-
+<p align="left">
+  📧 <strong>afifhasan.ranasa@proton.me</strong>
 </p>
 
 ---
