@@ -52,34 +52,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=afif-hasan&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=afif-hasan&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=afif-hasan&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=afif-hasan&theme=tokyonight&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=afif-hasan&theme=tokyo-night"/>
-</p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -99,7 +74,7 @@ LinkedIn
 
 |
 
-<a href="mailto:afifhasan.ranasa@proton.me">
+<a href="afifhasan.ranasa@proton.me">
 Email
 </a>
 
