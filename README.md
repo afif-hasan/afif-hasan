@@ -70,8 +70,8 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> |
-  <a href="mailto:yourmail@example.com">Email</a>
+  <a href="https://www.linkedin.com/in/afif-hasan-296255298/" target="_blank">LinkedIn</a> |
+  <a href="mailto:afifhasan.ranasa@proton.me">Email</a>
 </p>
 
 ---
