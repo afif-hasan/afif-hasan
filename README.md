@@ -29,13 +29,22 @@
 
 ---
 
-# 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,cpp,c,html,css,js,mysql,sqlite,git,github,linux,vscode,tensorflow,opencv" />
-</p>
+**Languages**
+Python • C++ • C • JavaScript
 
----
+**Backend**
+Django
+
+**Database**
+MySQL • SQLite
+
+**Machine Learning**
+TensorFlow • OpenCV
+
+**Tools**
+Git • GitHub • Linux • VS Code
 
 # 📌 Featured Projects
 
