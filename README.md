@@ -46,18 +46,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afif-hasan&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afif-hasan&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afif-hasan&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=afif-hasan&theme=tokyonight&cache_seconds=1800" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afif-hasan&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afif-hasan&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top languages" />
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 
