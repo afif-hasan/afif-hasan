@@ -74,7 +74,7 @@ LinkedIn
 
 |
 
-<a href="afifhasan.ranasa@proton.me">
+<a href="mailto:afifhasan.ranasa@proton.me">
 Email
 </a>
 
