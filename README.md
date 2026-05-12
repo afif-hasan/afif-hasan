@@ -72,7 +72,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=afif-hasan&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github&card_width=400" height="195"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afif-hasan&layout=compact&theme=gruvbox&hide_border=true&card_width=400&langs_count=6" height="195"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afif-hasan&layout=donut&theme=gruvbox&hide_border=true&card_width=400&langs_count=6" height="195"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=afif-hasan&theme=gruvbox&hide_border=true" />
