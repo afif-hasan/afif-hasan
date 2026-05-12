@@ -62,18 +62,29 @@
 🔹 [Academic Projects](https://github.com/afif-hasan/Academic)
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=afif-hasan&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=afif-hasan&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=afif-hasan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afif-hasan&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=afif-hasan&theme=tokyonight&hide_border=true" />
 </p>
 
 
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/afif-hasan/afif-hasan/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/afif-hasan/afif-hasan/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://github.com/afif-hasan/afif-hasan/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
