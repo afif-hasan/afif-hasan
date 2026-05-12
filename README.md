@@ -62,6 +62,8 @@
 🔹 [Academic Projects](https://github.com/afif-hasan/Academic)
 
 ---
+# 📊 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=afif-hasan&theme=merko&no-frame=true&row=1&column=6" />
 </p>
