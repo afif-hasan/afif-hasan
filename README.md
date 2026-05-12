@@ -19,7 +19,7 @@
 
 # 🎯 Current Focus
 
-🌱 Learning **Django backend development**
+🌱 Learning **Fastapi backend development**
 
 💻 Practicing **DSA / coding problems**
 
@@ -38,13 +38,15 @@
 
 ### Backend Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Fastapi](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Machine Learning & CV
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Tools & Environment
@@ -53,14 +55,11 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # 📌 Featured Projects
+🔹 [Hospitality analysis Backend](https://github.com/afif-hasan/hospitality_analytics_backend)
 
 🔹 [Python OOP Projects](https://github.com/afif-hasan/oop_projects)
 
 🔹 [Academic Projects](https://github.com/afif-hasan/Academic)
-
-🔹 [Python Bootcamp Exercises](https://github.com/afif-hasan/Complete-Python-Bootcamp)
-
-🔹 [Midterm Python OOP](https://github.com/afif-hasan/midterm_python_oop)
 
 ---
 
