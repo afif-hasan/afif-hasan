@@ -78,17 +78,6 @@
   <img src="https://streak-stats.demolab.com?user=afif-hasan&theme=merko&hide_border=true" />
 </p>
 
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/afif-hasan/afif-hasan/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/afif-hasan/afif-hasan/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://github.com/afif-hasan/afif-hasan/blob/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
 ---
 
 ## 📫 Connect With Me
