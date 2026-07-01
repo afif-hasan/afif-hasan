@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer | Fastapi  | DSA Enthusiast | ML & Research Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Mastering+Python+ and+Fastapi+Framework;Practicing+DSA+and+Problem+Solving;Working+on+ML+and+Research+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Mastering+Python+ and+Fastapi+Framework;Practicing+DSA+and+Problem+Solving;Working+on+ML+and+Research+Projects;" />
 </p>
 
 ---
